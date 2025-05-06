@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mudasir</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate fullstack developer from Pakistan</h3>
 <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" alt="coder" align="right" width="400">
 
 
