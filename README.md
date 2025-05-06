@@ -1,11 +1,97 @@
-<h1 align="center">Hi 👋, I'm mudasir</h1>
-<h3 align="center">A passionate fullstack developer from Pakistan</h3>
+# ✨ Mudasir | Full Stack Wizard ✨
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Code+Craftsman;Problem+Solver;Experience+Designer" alt="Typing SVG" />
+  
+  <p align="center">
+    <a href="https://komarev.com/ghpvc/?username=mudasir&color=blueviolet">
+      <img src="https://komarev.com/ghpvc/?username=mudasir&color=blueviolet" alt="profile views" />
+    </a>
+    <a href="https://github.com/mudasir?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mudasir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+  </p>
+</div>
+
 <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" alt="coder" align="right" width="400">
 
+## 🧙‍♂️ _Crafting Digital Experiences with Code and Creativity_ 🧙‍♂️
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+> "The code is like a spell - it transforms invisible ideas into visible magic."
+
+I'm a passionate full stack developer from Pakistan, weaving digital spells through elegant code. With a deep appreciation for both frontend aesthetics and backend logic, I build seamless experiences that bridge technology and human needs.
+
+When I'm not wrestling with code, you can find me exploring new tech stacks, solving complex problems, or helping fellow developers level up their skills.
+
+## ⚡ Tech Arcana
+
+```javascript
+const mudasir = {
+  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+  tools: {
+    frontend: ["React", "Next.js", "Redux", "Tailwind CSS", "SASS"],
+    backend: ["Node.js", "Express", "REST APIs"],
+    database: ["MongoDB", "PostgreSQL", "MySQL"],
+    mobile: ["React Native"],
+    devOps: ["Git", "CI/CD"],
+  },
+  architecture: ["Microservices", "MVC", "JAMstack"],
+  currentFocus: "Building scalable applications with elegant UX",
+};
+```
+
+## 🔮 Magical Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudasir&theme=radical" alt="mudasir's streak" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudasir&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasir&layout=compact&theme=radical" />
+</div>
+
+## 🌟 Featured Enchantments
+
+<div align="center">
+  <a href="#">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mudasir&repo=your-awesome-project&theme=radical">
+  </a>
+  <a href="#">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mudasir&repo=another-cool-project&theme=radical">
+  </a>
+</div>
+
+## 🧪 Spellbook (Languages & Tools)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,postgres,mysql,python,html,css,sass,tailwind,git" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🔥 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudasir&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="90%" alt="activity graph">
+</div>
+
+## 💫 Connect with the Wizard
+
+<div align="center">
+  <a href="https://linkedin.com/in/mudasir">
+    <img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/mudasir">
+    <img height="50" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img height="50" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
